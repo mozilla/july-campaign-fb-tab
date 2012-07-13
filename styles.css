@@ -1,0 +1,196 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* For modern browsers */
+.clearfix:before,
+.clearfix:after {
+    content:"";
+    display:table;
+}
+.clearfix:after {
+    clear:both;
+}
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix {
+    zoom:1;
+}
+
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-Italic-webfont.eot');
+    src: url('fonts/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/OpenSans-Italic-webfont.woff') format('woff'),
+         url('fonts/OpenSans-Italic-webfont.ttf') format('truetype'),
+         url('fonts/OpenSans-Italic-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url('fonts/OpenSans-Light-webfont.eot');
+    src: url('fonts/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/OpenSans-Light-webfont.woff') format('woff'),
+         url('fonts/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background: url("../images/bg.png") #e3e9ee repeat;
+    color: #484848;
+}
+
+#container {
+    background: url("../images/header-bg.jpg") no-repeat;
+    min-height: 670px;
+}
+
+#show-us-msg,
+#customize-msg,
+#callout-msg {
+    text-shadow: #fafafa 1px 1px 1px;
+}
+
+#show-us-msg {
+    font-family: 'Open Sans Light', sans-serif;
+    font-weight: normal;
+    font-size: 68px;
+    letter-spacing: -1px;
+    margin: 0 auto;
+    padding-top: 40px;
+    text-align: center;
+    width: 580px;
+
+}
+
+#customize-msg {
+    font-family: 'Open Sans Light', sans-serif;
+    font-weight: normal;
+    font-size: 28px;
+    margin: 60px 0 0 80px;
+    width: 340px;
+}
+
+#callout-msg {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+    margin: 30px 0 0 80px;
+}
+
+.arrow {
+    background: url('../images/arrow.png');
+    display: inline-block;
+    height: 14px;
+    margin-left: 5px;
+    vertical-align: bottom;
+    width: 17px;
+}
+
+#personas {
+    background: transparent;
+    background: rgba(197, 197, 197, 0.24);
+    box-shadow: 1px 1px 0 rgba(255, 255, 255, 0.9), inset 0px 0px 3px rgba(0, 0, 0, 0.01), inset 0px 0px 3px rgba(0, 0, 0, 0.03);
+    margin: 50px auto 0;
+    padding: 20px 15px;
+    width: 740px;
+}
+
+#personas li {
+    float: left;
+    height: 100px;
+    margin: 0 10px;
+    width: 165px;
+}
+
+#personas img {
+    cursor: pointer;
+    width: 165px;
+}
+
+#personas span {
+    font-family: 'Open Sans Light', sans-serif;
+    font-size: 16px;
+}
+
+#fan-box {
+    background: #FFFFFF;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.05);
+    margin: 50px auto 0;
+    min-height: 90px;
+    position: relative;
+    width: 770px;
+}
+
+#fan-box img {
+    bottom: 0;
+    position: absolute;
+    left: 0;
+}
+
+#see-all-msg {
+    bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+    position: absolute;
+    right: 20px;
+    text-align: right;
+    width: 210px;
+}
+
+#see-all-msg a {
+    color: #2983c8;
+    text-decoration: none;
+}
