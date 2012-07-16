@@ -85,12 +85,12 @@ table {
 }
 
 body {
-    background: url("../images/bg.png") #e3e9ee repeat;
+    background: url("images/bg.png") #e3e9ee repeat;
     color: #484848;
 }
 
 #container {
-    background: url("../images/header-bg.jpg") no-repeat;
+    background: url("images/header-bg.jpg") no-repeat;
     min-height: 670px;
 }
 
@@ -129,7 +129,7 @@ body {
 }
 
 .arrow {
-    background: url('../images/arrow.png');
+    background: url('images/arrow.png');
     display: inline-block;
     height: 14px;
     margin-left: 5px;
