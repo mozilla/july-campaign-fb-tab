@@ -44,7 +44,7 @@ $is_firefox = strpos($_SERVER['HTTP_USER_AGENT'], 'Firefox') !== false;
       <div id="fan-box">
         <img src="images/browser-stack.png">
         <div id="see-all-msg">
-          <a href="http://www.getpersonas.com/gallery/Designer/mozthemes">See more Firefox Themes »</a>
+          <a href="http://www.getpersonas.com/gallery/Designer/mozthemes" target="_parent">See more Firefox Themes »</a>
         </div>
       </div>
     </div>
