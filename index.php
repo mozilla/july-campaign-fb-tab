@@ -8,7 +8,52 @@ $personas = array(
     'brazil' => array('name' => 'Brazil', 'persona' => '{&quot;id&quot;:&quot;474692&quot;,&quot;name&quot;:&quot;Flag Brazil&quot;,&quot;category&quot;:null,&quot;description&quot;:&quot;&quot;,&quot;author&quot;:&quot;MozThemes&quot;,&quot;username&quot;:&quot;mozthemes&quot;,&quot;headerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/9\/2\/474692\/Persona_brazil1c.jpg?1341604936&quot;,&quot;footerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/9\/2\/474692\/footer_persona_brazil.jpg?1341604936&quot;,&quot;detailURL&quot;:&quot;http:\/\/www.getpersonas.com\/persona\/474692&quot;,&quot;previewURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/9\/2\/474692\/preview.jpg?1341604936&quot;,&quot;iconURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/9\/2\/474692\/preview_small.jpg?1341604936&quot;,&quot;dataurl&quot;:&quot;data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEASABIAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG\/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAUGEQASIQcTQSIyYXGB\/8QAGAEAAgMAAAAAAAAAAAAAAAAABgcBBAX\/xAAmEQABAwIGAgIDAAAAAAAAAAABAgMRAAQFBhIhMUFhgQhRFCJx\/9oADAMBAAIRAxEAPwC90IitRbZrtehRHaVAlPtFURbpXHbeSk73G3DztKSkEK5Tgeo+F98gH2F4nY2iiHLhKVyQP20KI0BQHchREciTAqrkROm1efSChskbE7AgGSCeoiZ4+zQr1pqXTydUHXLfaLtVKz3JELCY6jnnf4WflP6TqMlWuYLdpIvjpZjZK5K\/EdpHhXoUG5yusu3ClfhCXp3UjZHmeifKfZNae+L7ua8GEU2S5HgUdlO2NSoDXYiNJ8AIT7vtWdEOD5YscIdVdDU7cK3U64dbij96jx6ilzi2b8UxwBDyghkcNoGlAH8HPsmjOVRmlOkpCVc8DBxoirJF4U1\/\/9k=&quot;,&quot;accentcolor&quot;:null,&quot;textcolor&quot;:null,&quot;updateURL&quot;:&quot;https:\/\/www.getpersonas.com\/en-US\/update_check\/474692&quot;,&quot;version&quot;:&quot;1341604936&quot;}'),
     'italy' => array('name' => 'Italy', 'persona' => '{&quot;id&quot;:&quot;475015&quot;,&quot;name&quot;:&quot;Flag Italy&quot;,&quot;category&quot;:null,&quot;description&quot;:&quot;&quot;,&quot;author&quot;:&quot;MozThemes&quot;,&quot;username&quot;:&quot;mozthemes&quot;,&quot;headerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475015\/Persona_Italy.jpg?1341943165&quot;,&quot;footerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475015\/footer_persona_italy.jpg?1341943165&quot;,&quot;detailURL&quot;:&quot;http:\/\/www.getpersonas.com\/persona\/475015&quot;,&quot;previewURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475015\/preview.jpg?1341943165&quot;,&quot;iconURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475015\/preview_small.jpg?1341943165&quot;,&quot;dataurl&quot;:&quot;data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEASABIAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGB\/\/EACQQAAEDAwMEAwAAAAAAAAAAAAECBBEAAwYFEhMHMmFxkZLh\/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAYIAgT\/xAAnEQABAwEGBgMAAAAAAAAAAAABAAIDEQQFBhJBUQcTIjGRoYGi0v\/aAAwDAQACEQMRAD8AgNd6p5rlV0rznPtRep3duov1L+qCSB8UkGWac9RJ8lWDM24MLsrJJDZvljD+j7SR\/nOLtLnE2c3nh2wE2m5ifBVAHut8mQ6USVeHFzBt3Ag2l0zto2Od9nZW+1nJY8RF3YlJIkEJj9rqqSolc4yOznvvr5RTYFhaYlZUJkJooihov\/\/Z&quot;,&quot;accentcolor&quot;:null,&quot;textcolor&quot;:null,&quot;updateURL&quot;:&quot;https:\/\/www.getpersonas.com\/en-US\/update_check\/475015&quot;,&quot;version&quot;:&quot;1341943165&quot;}'),
     'mexico' => array('name' => 'Mexico', 'persona' => '{&quot;id&quot;:&quot;475115&quot;,&quot;name&quot;:&quot;Flag of Mexico&quot;,&quot;category&quot;:null,&quot;description&quot;:&quot;&quot;,&quot;author&quot;:&quot;MozThemes&quot;,&quot;username&quot;:&quot;mozthemes&quot;,&quot;headerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475115\/Persona_mexico-1.jpg?1342039329&quot;,&quot;footerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475115\/footer_persona_mexico.jpg?1342039329&quot;,&quot;detailURL&quot;:&quot;http:\/\/www.getpersonas.com\/persona\/475115&quot;,&quot;previewURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475115\/preview.jpg?1342039329&quot;,&quot;iconURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475115\/preview_small.jpg?1342039329&quot;,&quot;dataurl&quot;:&quot;data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEASABIAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFQABAQAAAAAAAAAAAAAAAAAABwb\/xAAgEAABBAMAAgMAAAAAAAAAAAABAgMEEQAFIRIxQXGB\/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwUGCP\/EACERAAICAQIHAAAAAAAAAAAAAAECABEDBBIFEyIxQVHh\/9oADAMBAAIRAxEAPwAs3m20qYz7UmCpbrh8kOtyFUn8JFj7GRaMvmbM1mnzhg6NQ9UPsJ56ll4rAqyfV9w4qooyF93eIcyK45ZWQoKHPL5xepIlzqsaP0gSelaloukpCFd4KNYfm1E54dvM\/9k=&quot;,&quot;accentcolor&quot;:null,&quot;textcolor&quot;:null,&quot;updateURL&quot;:&quot;https:\/\/www.getpersonas.com\/en-US\/update_check\/475115&quot;,&quot;version&quot;:&quot;1342039329&quot;}'),
-    'great_britain' => array('name' => 'Great Britain', 'persona' => '{&quot;id&quot;:&quot;475013&quot;,&quot;name&quot;:&quot;Great Britain Flag&quot;,&quot;category&quot;:null,&quot;description&quot;:&quot;&quot;,&quot;author&quot;:&quot;MozThemes&quot;,&quot;username&quot;:&quot;mozthemes&quot;,&quot;headerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/3\/475013\/Persona_GB1a.jpg?1341942981&quot;,&quot;footerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/3\/475013\/footer_persona_gb.jpg?1341942981&quot;,&quot;detailURL&quot;:&quot;http:\/\/www.getpersonas.com\/persona\/475013&quot;,&quot;previewURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/3\/475013\/preview.jpg?1341942981&quot;,&quot;iconURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/3\/475013\/preview_small.jpg?1341942981&quot;,&quot;dataurl&quot;:&quot;data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEASABIAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFgABAQEAAAAAAAAAAAAAAAAABwAD\/8QAJhAAAAUDAwMFAAAAAAAAAAAAAQIDBAUGBxEAEiEIIkETI1Jykf\/EABYBAQEBAAAAAAAAAAAAAAAAAAUHBP\/EAC8RAAECAwYEAwkAAAAAAAAAAAECAwQFEQAGEhRBYQchcbETMUIWIiU0Q4GCkcH\/2gAMAwEAAhEDEQA\/AEuuZSvTNIyQq+31pqNjoVMWEeWcepHTZBwJkwRUVUAqg8Cb2t4+c6xSly8byCxKkYRqE0qOutq7PILhvCRGcn0W7EOL51IVRW6aJSCOhpp5CxfVNy5FJMrZx1MMmjbAgZjR0WqmmYPjkpGyY\/ohpP2RvLGnFGO06qJ7WHVxG4eSf3ZPLMZGqgkd8dqF6kJdZVWPvTRzCqNxTN1pZqBY+Z2lHaIHUIT0XQBgexZMQHnI6ocfcqBiV5mAUWXNCkn+GvcbWjkqv\/NZcxkYuj8Pq24AtP2B5A7pwne2ziy9lbyLmPZ2r2J5ZXuJCOiFjpDOR4BqqcG7nHkW6qX1HR6o+8cgHxBrMND1CgV+\/I\/kEneyqYK595vknTAvn0qq4yTt9RA6eIBb\/9k=&quot;,&quot;accentcolor&quot;:null,&quot;textcolor&quot;:null,&quot;updateURL&quot;:&quot;https:\/\/www.getpersonas.com\/en-US\/update_check\/475013&quot;,&quot;version&quot;:&quot;1341942981&quot;}')
+    'great_britain' => array('name' => 'Great Britain', 'persona' => '{&quot;id&quot;:&quot;475013&quot;,&quot;name&quot;:&quot;Great Britain Flag&quot;,&quot;category&quot;:null,&quot;description&quot;:&quot;&quot;,&quot;author&quot;:&quot;MozThemes&quot;,&quot;username&quot;:&quot;mozthemes&quot;,&quot;headerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/3\/475013\/Persona_GB1a.jpg?1341942981&quot;,&quot;footerURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/3\/475013\/footer_persona_gb.jpg?1341942981&quot;,&quot;detailURL&quot;:&quot;http:\/\/www.getpersonas.com\/persona\/475013&quot;,&quot;previewURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/3\/475013\/preview.jpg?1341942981&quot;,&quot;iconURL&quot;:&quot;http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/3\/475013\/preview_small.jpg?1341942981&quot;,&quot;dataurl&quot;:&quot;data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEASABIAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFgABAQEAAAAAAAAAAAAAAAAABwAD\/8QAJhAAAAUDAwMFAAAAAAAAAAAAAQIDBAUGBxEAEiEIIkETI1Jykf\/EABYBAQEBAAAAAAAAAAAAAAAAAAUHBP\/EAC8RAAECAwYEAwkAAAAAAAAAAAECAwQFEQAGEhRBYQchcbETMUIWIiU0Q4GCkcH\/2gAMAwEAAhEDEQA\/AEuuZSvTNIyQq+31pqNjoVMWEeWcepHTZBwJkwRUVUAqg8Cb2t4+c6xSly8byCxKkYRqE0qOutq7PILhvCRGcn0W7EOL51IVRW6aJSCOhpp5CxfVNy5FJMrZx1MMmjbAgZjR0WqmmYPjkpGyY\/ohpP2RvLGnFGO06qJ7WHVxG4eSf3ZPLMZGqgkd8dqF6kJdZVWPvTRzCqNxTN1pZqBY+Z2lHaIHUIT0XQBgexZMQHnI6ocfcqBiV5mAUWXNCkn+GvcbWjkqv\/NZcxkYuj8Pq24AtP2B5A7pwne2ziy9lbyLmPZ2r2J5ZXuJCOiFjpDOR4BqqcG7nHkW6qX1HR6o+8cgHxBrMND1CgV+\/I\/kEneyqYK595vknTAvn0qq4yTt9RA6eIBb\/9k=&quot;,&quot;accentcolor&quot;:null,&quot;textcolor&quot;:null,&quot;updateURL&quot;:&quot;https:\/\/www.getpersonas.com\/en-US\/update_check\/475013&quot;,&quot;version&quot;:&quot;1341942981&quot;}'),
+    'china' => array('name' => 'China', 'persona' => ''),
+    'usa' => array('name' => 'The United States', 'persona' => ''),
+    'india' => array('name' => 'India', 'persona' => ''),
+    'japan' => array('name' => 'Japan', 'persona' => ''),
+    'germany' => array('name' => 'Germany', 'persona' => ''),
+    'russia' => array('name' => 'Russia', 'persona' => ''),
+    'indonesia' => array('name' => 'Indonesia', 'persona' => ''),
+    'france' => array('name' => 'France', 'persona' => ''),
+    'nigeria' => array('name' => 'Nigeria', 'persona' => ''),
+    'south_korea' => array('name' => 'South Korea', 'persona' => ''),
+    'iran' => array('name' => 'Iran', 'persona' => ''),
+    'turkey' => array('name' => 'Turkey', 'persona' => ''),
+    'vietnam' => array('name' => 'Vietnam', 'persona' => ''),
+    'phillippines' => array('name' => 'The Phillippines', 'persona' => ''),
+    'pakistan' => array('name' => 'Pakistan', 'persona' => ''),
+    'spain' => array('name' => 'Spain', 'persona' => ''),
+    'canada' => array('name' => 'Canada', 'persona' => ''),
+    'columbia' => array('name' => 'Columbia', 'persona' => ''),
+    'poland' => array('name' => 'Poland', 'persona' => ''),
+    'egypt' => array('name' => 'Egypt', 'persona' => ''),
+    'australia' => array('name' => 'Australia', 'persona' => ''),
+    'thailand' => array('name' => 'Thailand', 'persona' => ''),
+    'malaysia' => array('name' => 'Malaysia', 'persona' => ''),
+    'taiwan' => array('name' => 'Taiwan', 'persona' => ''),
+    'morocco' => array('name' => 'Morocco', 'persona' => ''),
+    'ukraine' => array('name' => 'Ukraine', 'persona' => ''),
+    'netherlands' => array('name' => 'The Netherlands', 'persona' => ''),
+    'saudi_arabia' => array('name' => 'Saudi Arabia', 'persona' => ''),
+    'venezuela' => array('name' => 'Venezuela', 'persona' => ''),
+    'chile' => array('name' => 'Chile', 'persona' => ''),
+    'peru' => array('name' => 'Peru', 'persona' => ''),
+    'sweden' => array('name' => 'Sweden', 'persona' => ''),
+    'belgium' => array('name' => 'Belgium', 'persona' => ''),
+    'romania' => array('name' => 'Romania', 'persona' => ''),
+    'czech' => array('name' => 'The Czech Republic', 'persona' => ''),
+    'hungary' => array('name' => 'Hungary', 'persona' => ''),
+    'switzerland' => array('name' => 'Switzerland', 'persona' => ''),
+    'austria' => array('name' => 'Austria', 'persona' => ''),
+    'kazakhastan' => array('name' => 'Kazakhastan', 'persona' => ''),
+    'israel' => array('name' => 'Israel', 'persona' => ''),
+    'portugal' => array('name' => 'Portugal', 'persona' => ''),
+    'greece' => array('name' => 'Greece', 'persona' => ''),
+    'hong_kong' => array('name' => 'Hong Kong', 'persona' => ''),
+    'finland' => array('name' => 'Finland', 'persona' => ''),
+    'denmark' => array('name' => 'Denmark', 'persona' => '')
 );
 
 // Sort by key
@@ -193,7 +238,7 @@ body {
 #fan-box {
     background: #FFFFFF;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.05);
-    margin: 50px auto 0;
+    margin: 50px auto 20px;
     min-height: 90px;
     position: relative;
     width: 770px;
@@ -233,7 +278,16 @@ body {
         <ol class="clearfix">
           <?php foreach ($personas as $id => $data): ?>
             <li>
-              <img src="images/previews/<?php echo $id; ?>.jpg" persona="<?php echo $data['persona']; ?>">
+              <?php
+              // Placeholder code, remove when the rest of the personas are in
+              if (file_exists("images/previews/${id}.jpg")) {
+                  $img_src = "images/previews/${id}.jpg";
+              } else {
+                  $img_src = 'http://placehold.it/200x67';
+              }
+              ?>
+              <!--<img src="images/previews/<?php echo $id; ?>.jpg" persona="<?php echo $data['persona']; ?>"> -->
+              <img src="<?php echo $img_src; ?>" persona="<?php echo $data['persona'] ?>">
               <span><?php echo $data['name']; ?></span>
             </li>
           <?php endforeach; ?>
