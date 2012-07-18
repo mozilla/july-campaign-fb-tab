@@ -211,20 +211,19 @@ body {
     font-family: 'Open Sans Light', sans-serif;
     font-weight: normal;
     font-size: 68px;
-    height: 136px;
     letter-spacing: -1px;
     margin: 0 auto;
-    overflow: visible;
     padding-top: 40px;
-    position: relative;
     text-align: center;
     width: 580px;
 }
 
-#show-us-msg h1 {
-    height: 136px;
-    display: table-cell;
-    vertical-align: middle;
+#cauldron {
+    background: url('images/cauldron.png') no-repeat;
+    float: right;
+    height: 441px;
+    margin: 0 50px -150px -50px;
+    width: 403px;
 }
 
 #customize-msg {
@@ -232,6 +231,7 @@ body {
     font-weight: normal;
     font-size: 28px;
     margin: 60px 0 0 80px;
+    position: relative;
     width: 340px;
 }
 
@@ -241,13 +241,13 @@ body {
     font-style: italic;
     font-weight: normal;
     margin: 30px 0 0 80px;
+    position: relative;
 }
 
 .arrow {
     background: url('images/arrow.png');
     display: inline-block;
     height: 14px;
-    margin-left: 5px;
     vertical-align: bottom;
     width: 17px;
 }
@@ -256,8 +256,10 @@ body {
     background: transparent;
     background: rgba(197, 197, 197, 0.24);
     box-shadow: 1px 1px 0 rgba(255, 255, 255, 0.9), inset 0px 0px 3px rgba(0, 0, 0, 0.01), inset 0px 0px 3px rgba(0, 0, 0, 0.03);
+    clear: both;
     margin: 50px auto 0;
     padding: 20px 15px;
+    position: relative;
     width: 740px;
 }
 
@@ -313,7 +315,8 @@ body {
   </head>
   <body>
     <div id="container">
-      <div id="show-us-msg"><h1><?php echo ___('Show your support!'); ?></h1></div>
+      <div id="show-us-msg"><?php echo ___('Show your support!'); ?></div>
+      <div id="cauldron"></div>
       <div id="customize-msg"><?php echo ___('Customize Firefox with your nation\'s flag and join us in celebrating the global spirit of community.'); ?></div>
       <div id="callout-msg"><?php echo ___('Roll over to try, click to apply.'); ?> <i class="arrow"></i></div>
 
