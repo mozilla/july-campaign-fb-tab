@@ -181,8 +181,15 @@ body {
     margin: 0 auto;
     overflow: visible;
     padding-top: 40px;
+    position: relative;
     text-align: center;
     width: 580px;
+}
+
+#show-us-msg h1 {
+    height: 136px;
+    display: table-cell;
+    vertical-align: middle;
 }
 
 #customize-msg {
@@ -271,7 +278,7 @@ body {
   </head>
   <body>
     <div id="container">
-      <div id="show-us-msg">Show your support!</div>
+      <div id="show-us-msg"><h1>Show your support!</h1></div>
       <div id="customize-msg">Customize Firefox with your nation's flag and join us in celebrating the global spirit of community.</div>
       <div id="callout-msg">Roll over to try, click to apply. <i class="arrow"></i></div>
 
