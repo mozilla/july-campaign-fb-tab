@@ -1,0 +1,46 @@
+# The strings in this file will be used for a marketing campaign on Facebook during the Olympic games
+
+
+# This string is a snippet for about:home
+;Join Firefox in celebrating the global spirit of community. <a href="%s">Watch the video.</a>
+Joignez-vous à Firefox pour célébrer l'esprit d'équipe. <a href="%s">Regardez la vidéo.</a>
+
+
+# This string is a snippet for about:home
+;<a href="%s">Customize Firefox with your nation's flag</a> and celebrate the global spirit of community.
+<a href="%s">Personnalisez Firefox avec le drapeau de votre pays</a> et célébrez l'esprit d'équipe.
+
+
+# This is going to be the main text on the Facebook tab with pictures of flags below
+;Customize Firefox with your nation's flag and join us in celebrating the global spirit of community.
+Personnalisez Firefox avec le drapeau de votre pays et célébrez avec nous l'esprit d'équipe partout dans le monde.
+
+
+# Call to action for Firefox users: apply the theme
+;Roll over to try, click to apply.
+Survolez pour essayer, cliquez pour adopter.
+
+
+# Call to action for other browsers users: download Firefox
+;Download Firefox to try or apply these themes.
+Téléchargez Firefox pour essayer ou adopter ces thèmes.
+
+
+# Link to the addons.mozilla.org themes collection
+;See more Firefox Themes »
+Encore plus de thèmes pour Firefox »
+
+
+# This string will be a Facebook post
+;Watch this 1-minute video and join Firefox in celebrating the spirit of community that's bringing the world together.
+Regardez cette vidéo d'une minute et avec Firefox célébrez l'esprit d'équipe qui va rassembler le monde.
+
+
+# This string will be a Facebook post
+;Show your support! Customize Firefox with your nation's flag and celebrate the global spirit of community.
+Montrez votre soutien ! Personnalisez Firefox avec le drapeau de votre pays et célébrez l'esprit d'équipe.
+
+
+# This is going to be the Headline on the Facebook tab
+;Show your support!
+Montrez votre soutien !

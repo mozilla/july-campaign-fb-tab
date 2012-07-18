@@ -1,0 +1,51 @@
+# The strings in this file will be used for a marketing campaign on Facebook during the Olympic games
+
+
+# This string is a snippet for about:home
+;Join Firefox in celebrating the global spirit of community. <a href="%s">Watch the video.</a>
+Feiere mit Firefox den weltweiten Gemeinschaftsgeist. <a href="%s">Schau dir das Video an.</a>
+
+
+# This string is a snippet for about:home
+;<a href="%s">Customize Firefox with your nation's flag</a> and celebrate the global spirit of community.
+<a href="%s">Passe Firefox mit deiner Nationalflagge an</a> und feiere den weltweiten Gemeinschaftsgeist.
+
+
+# This is going to be the main text on the Facebook tab with pictures of flags below
+;Customize Firefox with your nation's flag and join us in celebrating the global spirit of community.
+Passe Firefox mit deiner Nationalflagge an und feiere mit uns den weltweiten Gemeinschaftsgeist.
+
+
+# Call to action for Firefox users: apply the theme
+;Roll over to try, click to apply.
+Mauszeiger darüberhalten zum Ausprobieren, klicken zum Auswählen.
+
+
+# Call to action for other browsers users: download Firefox
+;Download Firefox to try or apply these themes.
+Lade Firefox herunter, um diese Themes auszuprobieren oder auszuwählen.
+
+
+# Link to the addons.mozilla.org themes collection
+;See more Firefox Themes »
+Schau dir weitere Firefox-Themes an »
+
+
+# This string will be a Facebook post
+# SIMILAR: Schau dir dieses einminütige Video an und feiere mit Firefox den Gemeinschaftsgeist, der die Welt diesen Sommer zusammenbringt.
+;Watch this 1-minute video and join Firefox in celebrating the spirit of community that's bringing the world together.
+Schau dir dieses einminütige Video an und feiere mit Firefox den Gemeinschaftsgeist, der die Welt zusammenbringt.
+
+
+# This string will be a Facebook post
+# SIMILAR: Zeige diesen Sommer deine Unterstützung! Passe Firefox mit deiner Nationalflagge an und feiere den weltweiten Gemeinschaftsgeist.
+;Show your support! Customize Firefox with your nation's flag and celebrate the global spirit of community.
+Zeige deine Unterstützung! Passe Firefox mit deiner Nationalflagge an und feiere den weltweiten Gemeinschaftsgeist.
+
+
+# This is going to be the Headline on the Facebook tab
+# SIMILAR: Zeige in diesem Sommer deine Unterstützung!
+;Show your support!
+Zeige deine Unterstützung!
+
+

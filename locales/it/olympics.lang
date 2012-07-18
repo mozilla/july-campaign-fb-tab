@@ -1,0 +1,51 @@
+# The strings in this file will be used for a marketing campaign on Facebook during the Olympic games
+
+
+# This string is a snippet for about:home
+;Join Firefox in celebrating the global spirit of community. <a href="%s">Watch the video.</a>
+Celebra insieme a Firefox lo spirito universale della comunità. <a href="%s">Guarda il video.</a>
+
+
+# This string is a snippet for about:home
+;<a href="%s">Customize Firefox with your nation's flag</a> and celebrate the global spirit of community.
+<a href="%s">Personalizza Firefox con la bandiera del tuo paese</a> e celebra lo spirito universale della comunità.
+
+
+# This is going to be the main text on the Facebook tab with pictures of flags below
+;Customize Firefox with your nation's flag and join us in celebrating the global spirit of community.
+Personalizza Firefox con la bandiera del tuo paese e celebra insieme a noi lo spirito universale della comunità.
+
+
+# Call to action for Firefox users: apply the theme
+;Roll over to try, click to apply.
+Visualizza l'anteprima al passaggio del mouse. Fai clic per installarlo.
+
+
+# Call to action for other browsers users: download Firefox
+;Download Firefox to try or apply these themes.
+Scarica Firefox per provare o installare questi temi.
+
+
+# Link to the addons.mozilla.org themes collection
+;See more Firefox Themes »
+Scopri altri temi per Firefox»
+
+
+# This string will be a Facebook post
+# SIMILAR: Guarda questo video di un minuto e celebra insieme a Firefox lo spirito comunitario che unirà tutto il mondo quest'estate.
+;Watch this 1-minute video and join Firefox in celebrating the spirit of community that's bringing the world together.
+Guarda questo video di un minuto e celebra insieme a Firefox lo spirito comunitario che unirà tutto il mondo assieme.
+
+
+# This string will be a Facebook post
+# SIMILAR: Quest'estate dimostra il tuo sostegno. Personalizza Firefox con la bandiera del tuo paese e celebra lo spirito universale della comunità.
+;Show your support! Customize Firefox with your nation's flag and celebrate the global spirit of community.
+Dimostra il tuo sostegno. Personalizza Firefox con la bandiera del tuo paese e celebra lo spirito universale della comunità.
+
+
+# This is going to be the Headline on the Facebook tab
+# SIMILAR: Quest'estate dimostra il tuo sostegno!
+;Show your support!
+Dimostra il tuo sostegno!
+
+

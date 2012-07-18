@@ -1,0 +1,51 @@
+# The strings in this file will be used for a marketing campaign on Facebook during the Olympic games
+
+
+# This string is a snippet for about:home
+;Join Firefox in celebrating the global spirit of community. <a href="%s">Watch the video.</a>
+與 Firefox 一同慶祝全球社群精神。<a href="%s">觀賞影片。</a>
+
+
+# This string is a snippet for about:home
+;<a href="%s">Customize Firefox with your nation's flag</a> and celebrate the global spirit of community.
+<a href="%s">使用您支持的奧運代表隊隊旗妝點 Firefox</a>，一同慶祝全球社群精神。
+
+
+# This is going to be the main text on the Facebook tab with pictures of flags below
+;Customize Firefox with your nation's flag and join us in celebrating the global spirit of community.
+使用您支持的奧運代表隊隊旗妝點 Firefox，並一同慶祝全球社群精神。
+
+
+# Call to action for Firefox users: apply the theme
+;Roll over to try, click to apply.
+滑過以預覽，點下以套用。
+
+
+# Call to action for other browsers users: download Firefox
+;Download Firefox to try or apply these themes.
+下載 Firefox 以試用或套用這些佈景主題。
+
+
+# Link to the addons.mozilla.org themes collection
+;See more Firefox Themes »
+看看其他 Firefox 佈景主題 »
+
+
+# This string will be a Facebook post
+# SIMILAR: 在這個夏天，讓全球變得更加緊密。請觀賞這部一分鐘短片，與 Firefox 一同慶祝全球社群精神。
+;Watch this 1-minute video and join Firefox in celebrating the spirit of community that's bringing the world together.
+觀賞這部一分鐘短片，與 Firefox 一同慶祝讓全球變得更加緊密的全球社群精神。
+
+
+# This string will be a Facebook post
+# SIMILAR: 展現您對夏季奧運的支持！使用您支持的代表隊旗妝點 Firefox，並與 Firefox 一同慶祝全球社群精神。
+;Show your support! Customize Firefox with your nation's flag and celebrate the global spirit of community.
+展現您的支持！使用您支持的代表隊旗妝點 Firefox，一同慶祝全球社群精神。
+
+
+# This is going to be the Headline on the Facebook tab
+# SIMILAR: 展現您對夏季奧運的支持！
+;Show your support!
+展現您的支持！
+
+
