@@ -343,7 +343,7 @@ body {
       <div id="fan-box">
         <img src="images/browser-stack.png">
         <div id="see-all-msg">
-          <a href="http://www.getpersonas.com/gallery/Designer/mozthemes" target="_parent"><?php echo ___('See more Firefox Themes »'); ?></a>
+          <a href="https://addons.mozilla.org/en-US/firefox/collections/mozilla/flags/" target="_parent"><?php echo ___('See more Firefox Themes »'); ?></a>
         </div>
       </div>
     </div>
