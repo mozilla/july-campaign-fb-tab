@@ -1,5 +1,3 @@
-# Olympics Facebook Tab Promotion
+# July Facebook Tab Promotion
 
-A Facebook tab celebrating the Olympics with Personas!
-
-See https://wiki.mozilla.org/Websites/FFOlympics for more details.
+A Facebook tab celebrating July with Personas!

@@ -270,7 +270,7 @@ body {
   </head>
   <body>
     <div id="container">
-      <div id="show-us-msg">Show your support this summer!</div>
+      <div id="show-us-msg">Show your support!</div>
       <div id="customize-msg">Customize Firefox with your nation's flag and join us in celebrating the global spirit of community.</div>
       <div id="callout-msg">Roll over to try, click to apply. <i class="arrow"></i></div>
 
