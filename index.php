@@ -176,12 +176,13 @@ body {
     font-family: 'Open Sans Light', sans-serif;
     font-weight: normal;
     font-size: 68px;
+    height: 136px;
     letter-spacing: -1px;
     margin: 0 auto;
+    overflow: visible;
     padding-top: 40px;
     text-align: center;
     width: 580px;
-
 }
 
 #customize-msg {
