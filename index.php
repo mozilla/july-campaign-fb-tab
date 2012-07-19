@@ -3,20 +3,58 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this
  * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 
+// There's almost certainly a better way to include the facebook php sdk here,
+// but this tab is small enough and on a tight enough schedule that this works.
+require_once 'settings.local.php';
 require_once 'l10n_moz.class.php';
+require_once 'lib/facebook-php-sdk/src/facebook.php';
 
 define('LOCALE_DIR', 'locales');
 define('LANG_FILE', 'olympics.lang');
 define('REGION_DIR', 'regions');
 
-// Build a list of valid locales.
-$locales = array_diff(scandir(LOCALE_DIR), array('.', '..'));
+/**
+ * Given a requested language, returns the best supported language available.
+ */
+function get_supported_language($lang) {
+    // Build a list of valid locales.
+    $locales = array_diff(scandir(LOCALE_DIR), array('.', '..'));
+
+    // Validate requested language against available languages.
+    if (!in_array($lang, $locales)) {
+        // Maintain a special mapping between certain Facebook locales and
+        // Mozilla ones.
+        $fb_language_map = array(
+            'es-LA' => 'es-ES'
+        );
+        if (array_key_exists($lang, $fb_language_map)) {
+            return $fb_language_map[$lang];
+        }
+
+        // Mozilla locales are weird, attempt to match by just the first part of
+        // the locale code.
+        $lang = substr($lang, 0, strpos($lang, '-'));
+        if (!in_array($lang, $locales)) {
+            return 'en-US';
+        }
+    }
+
+    return $lang;
+}
 
 // Retrieve the requested locale, defaulting to en-US.
-$lang = (array_key_exists('lang', $_GET) ? $_GET['lang'] : 'en-US');
-if (!in_array($lang, $locales)) {
-    $lang = 'en-US';
+$facebook = new Facebook(array(
+    'appId' => FB_APP_ID,
+    'secret' => FB_APP_SECRET
+));
+$signed_request = $facebook->getSignedRequest();
+if ($signed_request !== null) {
+    $lang = strtr($signed_request['user']['locale'], '_', '-');
+} else {
+    // We're not in a Facebook page, so let's see if there's a lang parameter.
+    $lang = (array_key_exists('lang', $_GET) ? $_GET['lang'] : 'en-US');
 }
+$lang = get_supported_language($lang);
 
 // Read in locale data and set up translation function.
 $l10n = new l10n_moz();
@@ -27,7 +65,12 @@ function ___($key) {
 }
 
 // Load region name JSON file.
-$json = file_get_contents(sprintf('%s/%s.json', REGION_DIR, $lang));
+$region_lang = $lang;
+$region_files = array_diff(scandir(REGION_DIR), array('.', '..'));
+if (!in_array($lang . '.json', $region_files)) {
+    $region_lang = 'en-US';
+}
+$json = file_get_contents(sprintf('%s/%s.json', REGION_DIR, $region_lang));
 $region_names = json_decode($json, true);
 function get_region_name($region_code) {
     global $region_names;
@@ -338,16 +381,7 @@ a:hover {
         <ol class="clearfix">
           <?php foreach ($personas as $id => $data): ?>
             <li>
-              <?php
-              // Placeholder code, remove when the rest of the personas are in
-              if (file_exists("images/previews/${id}.jpg")) {
-                  $img_src = "images/previews/${id}.jpg";
-              } else {
-                  $img_src = 'http://placehold.it/200x67';
-              }
-              ?>
-              <!--<img src="images/previews/<?php echo $id; ?>.jpg" persona="<?php echo $data['persona']; ?>"> -->
-              <img src="<?php echo $img_src; ?>" persona="<?php echo htmlentities($data['persona']) ?>">
+              <img src="images/previews/<?php echo $id; ?>.jpg" persona="<?php echo $data['persona']; ?>">
               <span><?php echo get_region_name($id); ?></span>
             </li>
           <?php endforeach; ?>

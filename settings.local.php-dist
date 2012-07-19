@@ -1,0 +1,6 @@
+<?php
+// Facebook App ID
+define('FB_APP_ID', '');
+
+// Facebook App Secret
+define('FB_APP_SECRET', '');
