@@ -150,6 +150,7 @@ $is_firefox = strpos($_SERVER['HTTP_USER_AGENT'], 'Firefox') !== false;
 <html>
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
     <!-- Use style tag due to css file issues on getpersonas. -->
     <style>
