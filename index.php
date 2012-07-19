@@ -81,7 +81,6 @@ $personas = array(
     'mx' => array('persona' => '{"id":"475115","name":"Flag of Mexico","category":null,"description":"","author":"MozThemes","username":"mozthemes","headerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475115\/Persona_mexico-1.jpg?1342039329","footerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475115\/footer_persona_mexico.jpg?1342039329","detailURL":"http:\/\/www.getpersonas.com\/persona\/475115","previewURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475115\/preview.jpg?1342039329","iconURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/1\/5\/475115\/preview_small.jpg?1342039329","dataurl":"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEASABIAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFQABAQAAAAAAAAAAAAAAAAAABwb\/xAAgEAABBAMAAgMAAAAAAAAAAAABAgMEEQAFIRIxQXGB\/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwUGCP\/EACERAAICAQIHAAAAAAAAAAAAAAECABEDBBIFEyIxQVHh\/9oADAMBAAIRAxEAPwAs3m20qYz7UmCpbrh8kOtyFUn8JFj7GRaMvmbM1mnzhg6NQ9UPsJ56ll4rAqyfV9w4qooyF93eIcyK45ZWQoKHPL5xepIlzqsaP0gSelaloukpCFd4KNYfm1E54dvM\/9k=","accentcolor":null,"textcolor":null,"updateURL":"https:\/\/www.getpersonas.com\/en-US\/update_check\/475115","version":"1342039329"}'),
     'se' => array('persona' => '{"id":"475120","name":"Sweden Flag","category":null,"description":"","author":"MozThemes","username":"mozthemes","headerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/2\/0\/475120\/Persona_Sweden.jpg?1342039759","footerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/2\/0\/475120\/footer_persona_SW.jpg?1342039759","detailURL":"http:\/\/www.getpersonas.com\/persona\/475120","previewURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/2\/0\/475120\/preview.jpg?1342039759","iconURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/2\/0\/475120\/preview_small.jpg?1342039759","dataurl":"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEAZABkAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFQABAQAAAAAAAAAAAAAAAAAABwH\/xAAoEAABAgQEBQUAAAAAAAAAAAABAgMEBQYHAAgRIhITITJBMTNhkcP\/xAAYAQEAAwEAAAAAAAAAAAAAAAAHAgMEBv\/EACkRAAECBAMIAwEAAAAAAAAAAAECAwAEBREGB0ESISIxMlGBwUJF0tP\/2gAMAwEAAhEDEQA\/AEup7T0\/H2lpqilXCgYFqUuhxMz4UhqK93akcwDXf4Ue36KaPj2bkMWz1cTT1rU8mxaBO0jo3ngJ+OqRzi+o4UYmqBK0tU2lKWjcLNrK6tw4gNe55QHVFl6kMO+AzdyWOpJ12spH7YRE5uT7wuaO6PKv5xygy+lW\/sEHwP3EuDPFOZbqFhgpKkpiR3H10S\/8Y04ZKkZi1V2\/NPtuIVtG1g+Qb7K9LgFcmEGl8KW2h3cCeh6jyMMhcKtYOQ3s6R\/\/2Q==","accentcolor":null,"textcolor":null,"updateURL":"https:\/\/www.getpersonas.com\/en-US\/update_check\/475120","version":"1342039759"}'),
     'at' => array('persona' => '{"id":"475239","name":"Austria Flag","category":null,"description":"","author":"MozThemes","username":"mozthemes","headerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/3\/9\/475239\/Persona_austria2.jpg?1342126489","footerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/3\/9\/475239\/footer_persona_austria2.jpg?1342126489","detailURL":"http:\/\/www.getpersonas.com\/persona\/475239","previewURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/3\/9\/475239\/preview.jpg?1342126489","iconURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/3\/9\/475239\/preview_small.jpg?1342126489","dataurl":"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEAZABkAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFQABAQAAAAAAAAAAAAAAAAAABAb\/xAAnEAABAgUCBQUAAAAAAAAAAAABAgQAAwUREgdRBggTISIjQWGBof\/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBgMI\/8QAKhEAAgAEAwUJAAAAAAAAAAAAAQIAAwQRBQYhEhMxgZIUFiJTVHORobH\/2gAMAwEAAhEDEQA\/AHp1j0ROPV5a6OoFNrS+JH3Y\/dog+20nkDqMdjd08zKTs4w\/OTLgLjV3RDPw5WqGtPsVcSPr\/hNoE1lJ6cdRjdctZmC641Mv7MqIZpSW86mznIpT5U+WoDPL00\/JNxttCQUFb2MVUyodJwTeLsn55cf2B1Q06cA3bMU9bDznKcKWchskAAX27wLFToBDVMs1fE7aX4WA+9TH\/9k=","accentcolor":null,"textcolor":null,"updateURL":"https:\/\/www.getpersonas.com\/en-US\/update_check\/475239","version":"1342126489"}'),
-
     'fi' => array('persona' => '{"id":"475648","name":"Flag Finland","category":null,"description":"","author":"MozThemes","username":"mozthemes","headerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/4\/8\/475648\/Persona_finland.jpg?1342470757","footerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/4\/8\/475648\/footer_persona_finland.jpg?1342470757","detailURL":"http:\/\/www.getpersonas.com\/persona\/475648","previewURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/4\/8\/475648\/preview.jpg?1342470757","iconURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/4\/8\/475648\/preview_small.jpg?1342470757","dataurl":"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEAZABkAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP\/EACcQAAECBAUDBQAAAAAAAAAAAAECBAMFBhIABwgRIRMiMTIzNFFx\/8QAGAEAAwEBAAAAAAAAAAAAAAAABQYHAQP\/xAAnEQABAgQFAwUAAAAAAAAAAAABAgMABBEhBQYxNMESkdITQlFhcv\/aAAwDAQACEQMRAD8AbdReoeq8wJrQr+f5NTimIkhmpetITqK43mC74J6KLoKDd2JHF3qHH3TMHwhmUQ8lt8L6hQ0pbW+p4iXYzi704tlTjBQUmorW+ltB8fcUOea3c14kTjS1VbfdRBSpTrf8+KOcC0ZalAN2k9vKDKsyzijtFDv4wd16QlIqfJUXqIVVCx3qJPutfGOeVSPSmvxwqNzWkh2Uv7+UxrJ3L1uCVKUsi8kDc+N8J4UBDkQY\/9k=","accentcolor":null,"textcolor":null,"updateURL":"https:\/\/www.getpersonas.com\/en-US\/update_check\/475648","version":"1342470757"}'),
     'gr' => array('persona' => '{"id":"475649","name":"Flag of Greece","category":null,"description":"","author":"MozThemes","username":"mozthemes","headerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/4\/9\/475649\/Persona_greece.jpg?1342470919","footerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/4\/9\/475649\/footer_persona_greece.jpg?1342470919","detailURL":"http:\/\/www.getpersonas.com\/persona\/475649","previewURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/4\/9\/475649\/preview.jpg?1342470919","iconURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/4\/9\/475649\/preview_small.jpg?1342470919","dataurl":"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEAZABkAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH\/8QAJxAAAQIFAwMFAQAAAAAAAAAAAQIEAwUGBxEACBIXIUETFVFxodL\/xAAXAQADAQAAAAAAAAAAAAAAAAABAwcC\/8QAKREAAQIFAQYHAAAAAAAAAAAAAQIDAAQFERKTFDJBQlPRITFRUqGx0v\/aAAwDAQACEQMRAD8A1W8FP2afbkJ4t3NoM2qSI2amPJKjd+zybgGUEJWX6F8wsI4qCeOColPjOqTTHZ9FKRinFFzZSBmvePKRa1+Pp4xNakzTl1Zeasl2F0qOKd0c17+XzA1UDbNRybVWDIznPVpz3\/dM2yc6z+gIzsVP6TOse8InFzKQqB\/EnFQ3W2+zR64CfUdPbau40WIEpCU5WoEnCQAPgADxoNSEwykIaZfSBwDqQILtQlH1FbrrClHiWiT9ROVW1sj26g7b\/rpY5\/nTBKTnTmNYd4XtUh72NE\/mP\/\/Z","accentcolor":null,"textcolor":null,"updateURL":"https:\/\/www.getpersonas.com\/en-US\/update_check\/475649","version":"1342470919"}'),
     'ua' => array('persona' => '{"id":"475656","name":"Flag of Ukraine","category":null,"description":"","author":"MozThemes","username":"mozthemes","headerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/5\/6\/475656\/Persona_ukraine.jpg?1342474461","footerURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/5\/6\/475656\/footer_persona_ukraine.jpg?1342474461","detailURL":"http:\/\/www.getpersonas.com\/persona\/475656","previewURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/5\/6\/475656\/preview.jpg?1342474461","iconURL":"http:\/\/getpersonas-cdn.mozilla.net\/static\/5\/6\/475656\/preview_small.jpg?1342474461","dataurl":"data:image\/png;base64,\/9j\/4AAQSkZJRgABAQEASABIAAD\/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD\/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD\/wAARCAAQABADAREAAhEBAxEB\/8QAFgABAQEAAAAAAAAAAAAAAAAABgMI\/8QAJBAAAQMDAgcBAAAAAAAAAAAAAQIDBAAFEQYIExYhMVFkstL\/xAAaAQABBQEAAAAAAAAAAAAAAAAHAQMEBQYI\/8QAJhEAAQMBBwQDAAAAAAAAAAAAAQACAwQFBwgRITHSEkSCg5KT0f\/aAAwDAQACEQMRAD8AnO2oXVkY52h4HpLB+6HgxQUEm1mP+1vBZpt2U7e6b8DyQu\/bd7rBe4SNXR158Q1\/qp0WIqjqR1Cz3D2N4JRd1KzeoB8T+rcV2tQWVJCOvauLIJ8tUXC1EJ+k2pTmVtgkGreKvLBomizNf\/\/Z","accentcolor":null,"textcolor":null,"updateURL":"https:\/\/www.getpersonas.com\/en-US\/update_check\/475656","version":"1342474461"}'),
@@ -174,7 +173,6 @@ table {
     zoom:1;
 }
 
-
 @font-face {
     font-family: 'Open Sans';
     src: url('fonts/OpenSans-Italic-webfont.eot');
@@ -200,6 +198,15 @@ table {
 body {
     background: url("images/bg.png") #e3e9ee repeat;
     color: #484848;
+}
+
+a {
+    color: #2983c8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 #container {
@@ -312,11 +319,6 @@ body {
     text-align: right;
     width: 210px;
 }
-
-#see-all-msg a {
-    color: #2983c8;
-    text-decoration: none;
-}
     </style>
   </head>
   <body>
@@ -324,7 +326,13 @@ body {
       <div id="show-us-msg"><?php echo ___('Show your support!'); ?></div>
       <div id="cauldron"></div>
       <div id="customize-msg"><?php echo ___('Customize Firefox with your nation\'s flag and join us in celebrating the global spirit of community.'); ?></div>
-      <div id="callout-msg"><?php echo ___('Roll over to try, click to apply.'); ?> <i class="arrow"></i></div>
+      <div id="callout-msg">
+        <?php if ($is_firefox): ?>
+          <?php echo ___('Roll over to try, click to apply.'); ?> <i class="arrow"></i>
+        <?php else: ?>
+          <a href="https://mozilla.org/firefox/"><?php echo ___('Download Firefox to try or apply these themes.'); ?></a>
+        <?php endif; ?>
+      </div>
 
       <div id="personas">
         <ol class="clearfix">
