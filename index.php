@@ -382,7 +382,7 @@ a:hover {
         <ol class="clearfix">
           <?php foreach ($personas as $id => $data): ?>
             <li>
-              <img src="images/previews/<?php echo $id; ?>.jpg" persona="<?php echo $data['persona']; ?>">
+              <img src="images/previews/<?php echo $id; ?>.jpg" persona="<?php echo htmlentities($data['persona']); ?>">
               <span><?php echo get_region_name($id); ?></span>
             </li>
           <?php endforeach; ?>
