@@ -310,6 +310,20 @@ a:hover {
     font-weight: normal;
     margin: 30px 0 0 80px;
     position: relative;
+    width: 320px;
+}
+
+.download {
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid #b9c9d1;
+    border-radius: 4px;
+    box-shadow: inset 1px 1px 0 rgba(255, 255, 255, 0.1);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: normal;
+    padding: 6px 10px;
+    text-align: center;
 }
 
 .arrow {
@@ -348,6 +362,11 @@ a:hover {
     font-size: 16px;
 }
 
+#personas .download {
+    margin: 20px auto;
+    width: 320px;
+}
+
 #fan-box {
     background: #FFFFFF;
     box-shadow: 1px 1px rgba(0, 0, 0, 0.05);
@@ -383,9 +402,9 @@ a:hover {
       <div id="customize-msg"><?php echo ___('Customize Firefox with your nation\'s flag and join us in celebrating the global spirit of community.'); ?></div>
       <div id="callout-msg">
         <?php if ($is_firefox): ?>
-          <?php echo ___('Roll over to try, click to apply.'); ?> <i class="arrow"></i>
+          <p><?php echo ___('Roll over to try, click to apply.'); ?> <i class="arrow"></i></p>
         <?php else: ?>
-          <a href="https://mozilla.org/firefox/"><?php echo ___('Download Firefox to try or apply these themes.'); ?></a>
+          <p class="download"><a href="https://mozilla.org/firefox/"><?php echo ___('Download Firefox to try or apply these themes.'); ?></a></p>
         <?php endif; ?>
       </div>
 
@@ -398,6 +417,9 @@ a:hover {
             </li>
           <?php endforeach; ?>
         </ol>
+        <?php if (!$is_firefox): ?>
+          <p class="download"><a href="https://mozilla.org/firefox/"><?php echo ___('Download Firefox to try or apply these themes.'); ?></a></p>
+        <?php endif; ?>
       </div>
 
       <div id="fan-box">
