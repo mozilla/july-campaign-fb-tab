@@ -8,12 +8,12 @@ Firefox とともにコミュニティのグローバルな精神を称えまし
 
 # This string is a snippet for about:home
 ;<a href="%s">Customize Firefox with your nation's flag</a> and celebrate the global spirit of community.
-<a href="%s">Firefox をあなたの国の国旗にカスタマイズ</a> してコミュニティのグローバルな精神を称えましょう。
+<a href="%s">Firefox を国旗のデザインに着せ替えて</a>、コミュニティのグローバルな精神を称えましょう。
 
 
 # This is going to be the main text on the Facebook tab with pictures of flags below
 ;Customize Firefox with your nation's flag and join us in celebrating the global spirit of community.
-Firefox をあなたの国の国旗にカスタマイズしてコミュニティのグローバルな精神を称えましょう。
+Firefox を国旗のデザインに着せ替えて、コミュニティのグローバルな精神を称えましょう。
 
 
 # Call to action for Firefox users: apply the theme
@@ -32,20 +32,17 @@ Firefox をダウンロードしてこれらのテーマをお試しください
 
 
 # This string will be a Facebook post
-# SIMILAR: この 1 分の動画を見てください。この夏、Firefox とともに、世界中の人々が一つに集まるコミュニティのグローバルな精神を称えましょう。
 ;Watch this 1-minute video and join Firefox in celebrating the spirit of community that's bringing the world together.
-Watch this 1-minute video and join Firefox in celebrating the spirit of community that's bringing the world together.
+この 1 分の動画を見てください。Firefox とともに、世界中の人々が一つに集まるコミュニティの精神を称えましょう。
 
 
 # This string will be a Facebook post
-# SIMILAR: この夏、あなたのサポートが求められています！ Firefox をあなたの国の国旗にカスタマイズしてコミュニティのグローバルな精神を称えましょう。
 ;Show your support! Customize Firefox with your nation's flag and celebrate the global spirit of community.
-Show your support! Customize Firefox with your nation's flag and celebrate the global spirit of community.
+あなたも一緒に応援しませんか！ Firefox を国旗のデザインに着せ替えて、コミュニティのグローバルな精神を称えましょう。
 
 
 # This is going to be the Headline on the Facebook tab
-# SIMILAR: この夏、あなたのサポートが求められています！
 ;Show your support!
-Show your support!
+一緒に応援しよう！
 
 
