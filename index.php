@@ -404,7 +404,7 @@ a:hover {
         <?php if ($is_firefox): ?>
           <p><?php echo ___('Roll over to try, click to apply.'); ?> <i class="arrow"></i></p>
         <?php else: ?>
-          <p class="download"><a href="https://mozilla.org/firefox/"><?php echo ___('Download Firefox to try or apply these themes.'); ?></a></p>
+          <p class="download"><a href="https://mozilla.org/firefox/" target="_parent"><?php echo ___('Download Firefox to try or apply these themes.'); ?></a></p>
         <?php endif; ?>
       </div>
 
@@ -418,7 +418,7 @@ a:hover {
           <?php endforeach; ?>
         </ol>
         <?php if (!$is_firefox): ?>
-          <p class="download"><a href="https://mozilla.org/firefox/"><?php echo ___('Download Firefox to try or apply these themes.'); ?></a></p>
+          <p class="download"><a href="https://mozilla.org/firefox/" target="_parent"><?php echo ___('Download Firefox to try or apply these themes.'); ?></a></p>
         <?php endif; ?>
       </div>
 
