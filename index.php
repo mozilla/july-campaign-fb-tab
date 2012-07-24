@@ -10,7 +10,7 @@ require_once 'l10n_moz.class.php';
 require_once 'lib/facebook-php-sdk/src/facebook.php';
 
 define('LOCALE_DIR', 'locales');
-define('LANG_FILE', 'olympics.lang');
+define('LANG_FILE', 'julyevent.lang');
 define('REGION_DIR', 'regions');
 
 /**
