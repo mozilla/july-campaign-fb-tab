@@ -8,12 +8,12 @@
 
 # This string is a snippet for about:home
 ;<a href="%s">Customize Firefox with your nation's flag</a> and celebrate the global spirit of community.
-<a href="%s">使用您支持的奧運代表隊隊旗妝點 Firefox</a>，一同慶祝全球社群精神。
+<a href="%s">使用您支持的國旗妝點 Firefox</a>，一同慶祝全球社群精神。
 
 
 # This is going to be the main text on the Facebook tab with pictures of flags below
 ;Customize Firefox with your nation's flag and join us in celebrating the global spirit of community.
-使用您支持的奧運代表隊隊旗妝點 Firefox，並一同慶祝全球社群精神。
+使用您的國旗妝點 Firefox，一同慶祝全球社群精神。
 
 
 # Call to action for Firefox users: apply the theme
@@ -40,7 +40,7 @@
 # This string will be a Facebook post
 # SIMILAR: 展現您對夏季奧運的支持！使用您支持的代表隊旗妝點 Firefox，並與 Firefox 一同慶祝全球社群精神。
 ;Show your support! Customize Firefox with your nation's flag and celebrate the global spirit of community.
-展現您的支持！使用您支持的代表隊旗妝點 Firefox，一同慶祝全球社群精神。
+展現您的支持！使用您支持的國旗妝點 Firefox，一同慶祝全球社群精神。
 
 
 # This is going to be the Headline on the Facebook tab
